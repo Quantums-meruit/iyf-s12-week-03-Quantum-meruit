@@ -1,5 +1,5 @@
 # iyf-s12-week-03-Quantum-meruit
-# Week {Number}: {Project Title}
+# Week 3: Developer tools & Workflow
 
 ## Author
 - **Name:** Your Full Name
