@@ -69,4 +69,4 @@ Main challenges faced is to know what and where each command is used and for whi
 
 ## Screenshots
 
-![Vs code project structure created using terminal](C:\Users\Administrator\Desktop\My-code-Workspace\my-Flow\iyf-s12-week-03-Quantum-meruit\my-project\src\images\image.png))
+![Vs code project structure created using terminal](C:\Users\Administrator\Desktop\My-code-Workspace\my-Flow\iyf-s12-week-03-Quantum-meruit\my-project\src\images\image.png)
