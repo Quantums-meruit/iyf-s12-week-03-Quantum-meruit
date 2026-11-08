@@ -10,15 +10,10 @@
 Brief description of what you built and why.
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- (list all technologies)
+- git 
+- github
+- Vscode terminal
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## How to Run
 1. Clone this repository
